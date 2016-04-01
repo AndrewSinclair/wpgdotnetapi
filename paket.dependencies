@@ -5,3 +5,5 @@ nuget Suave
 nuget FSharp.Data
 nuget FSharp.Compiler.Service
 nuget FSharpX.Extras
+nuget System.Linq.Expressions
+nuget linqtotwitter
